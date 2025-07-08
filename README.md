@@ -1,23 +1,19 @@
-# wrensite_v0
+# wrensite_theme-v0
 
-Welcome to your new Jekyll theme! In this directory, you'll find the files you need to be able to package up your theme into a gem. Put your layouts in `_layouts`, your includes in `_includes`, your sass files in `_sass` and any other assets in `assets`.
-
-To experiment with this code, add some sample content and run `bundle exec jekyll serve` – this directory is setup just like a Jekyll site!
-
-TODO: Delete this and the text above, and describe your gem
+my first theme for jekyll, created to learn.
 
 ## Installation
 
 Add this line to your Jekyll site's `Gemfile`:
 
 ```ruby
-gem "wrensite_v0"
+gem "wrensite_theme-v0"
 ```
 
 And add this line to your Jekyll site's `_config.yml`:
 
 ```yaml
-theme: wrensite_v0
+theme: wrensite_theme-v0
 ```
 
 And then execute:
@@ -26,7 +22,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install wrensite_v0
+    $ gem install wrensite_theme-v0
 
 ## Usage
 
@@ -34,7 +30,7 @@ TODO: Write usage instructions here. Describe your available layouts, includes, 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/wrensite_v0. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](https://www.contributor-covenant.org/) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/wrental/wrensite_theme-v0. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](https://www.contributor-covenant.org/) code of conduct.
 
 ## Development
 
