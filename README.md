@@ -1,6 +1,6 @@
 # wrensite_theme-v0
 
-my first theme for jekyll, created to learn.
+my first theme for jekyll, created to learn. currently unused, website is self-contained in wrental/wrental.github.io
 
 ## Installation
 
